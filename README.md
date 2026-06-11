@@ -41,7 +41,7 @@
 
 | Phase | Time | Format |
 |---|---|---|
-| Concept walkthrough | ~90 min | Instructor uses the [**interactive key-concepts walkthrough →**](https://flexfengfeng.github.io/dsai-m3-l06-learner/) |
+| Concept walkthrough | ~90 min | Instructor uses the [**interactive key-concepts walkthrough →**](https://su-ntu-ctp.github.io/6m-data-3.6-Time-Series-Forecasting/) |
 | Hands-on code-alongs | ~90 min | Three notebooks (~25–30 min each) |
 | (Self-study after class) | self-paced | Each notebook has a 🟡 Extension section + the assignment |
 
@@ -61,7 +61,7 @@ You'll run `01_monday_morning.ipynb` to see NorthStar's daily revenue data + wat
 
 **Short reference & review →** [**lesson.md**](./lesson.md) (overview, key takeaways, forecast-honesty checklist, review Q&A, L07→L10 course map)
 
-**Interactive walkthrough →** [**Key Concepts — interactive page**](https://flexfengfeng.github.io/dsai-m3-l06-learner/) (the visual walkthrough used in class — revisit any time)
+**Interactive walkthrough →** [**Key Concepts — interactive page**](https://su-ntu-ctp.github.io/6m-data-3.6-Time-Series-Forecasting/) (the visual walkthrough used in class — revisit any time)
 
 **Notebooks — run in order:**
 
